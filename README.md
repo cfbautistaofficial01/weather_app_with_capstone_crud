@@ -146,6 +146,4 @@ weather_app_with_capstone_crud/
 ├── .gitignore              # Specifies files to ignore
 └── README.md               # Project Documentation
 ```
-
-````
-
+ 
