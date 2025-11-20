@@ -38,14 +38,14 @@ cd weather_app_with_capstone_crud
 
 ### 2\. Create a Virtual Environment
 
-It is recommended to use a virtual environment to manage dependencies.
+Create a virtual enviroment
 
   * **Windows:**
     ```bash
     python -m venv venv
     .\venv\Scripts\activate
     ```
-  * **Mac/Linux:**
+  * **Mac:**
     ```bash
     python3 -m venv venv
     source venv/bin/activate
