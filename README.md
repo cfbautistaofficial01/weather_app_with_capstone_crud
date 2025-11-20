@@ -12,7 +12,7 @@ This repository contains two distinct applications built with Flask:
 
 Before you begin, ensure you have the following installed:
 
-* **Python 3.x**
+* **Python 3.x (make sure when install check the "Add python to path"**
 * **MySQL Server** (Running locally)
 * **Git**
 
