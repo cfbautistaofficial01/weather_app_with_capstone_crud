@@ -1,13 +1,9 @@
 
-### Running the weather and crud restful api`
-
-Overwrite your current file with this content:
-
-````markdown
 # Weather App & Capstone CRUD API
 
 This repository contains two distinct applications built with Flask:
-1.  **Weather App (`app_weather_v2.py`):** A user-friendly web interface that displays real-time weather, air quality, and AI-generated summaries.
+
+1.  **Weather App (`app.py`):** A user-friendly web interface that displays real-time weather, air quality, and AI-generated summaries.
 2.  **Company API (`capstone_crud_rest.py`):** A RESTful API for managing Employees, Departments, and Projects in a MySQL database.
 
 ---
@@ -15,11 +11,21 @@ This repository contains two distinct applications built with Flask:
 ## 🛠️ Prerequisites
 
 Before you begin, ensure you have the following installed:
+
 * **Python 3.x**
 * **MySQL Server** (Running locally)
 * **Git**
 
 ---
+
+## 🚀 Installation & Setup
+
+### 1. Clone the Repository
+Open your terminal and run:
+
+```bash
+git clone [https://github.com/cfbautistaofficial01/weather_app_with_capstone_crud.git](https://github.com/cfbautistaofficial01/weather_app_with_capstone_crud.git)
+cd weather_app_with_capstone_crud
 
 ## 🚀 Installation & Setup
 
